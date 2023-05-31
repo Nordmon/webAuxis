@@ -1,0 +1,14 @@
+{
+  "name": "webauxis",
+  "version": "1.0.0",
+  "description": "Web Auxiliares",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jj.web.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
